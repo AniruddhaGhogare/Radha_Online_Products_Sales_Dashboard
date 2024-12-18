@@ -21,7 +21,6 @@ A dynamic and interactive Power BI dashboard designed to provide deep insights i
 ## Technical Details:
 
 - Power BI: The dashboard is built using Microsoft Power BI, a powerful data visualization and business intelligence tool.
-- Data Source: The data is sourced from .
 - Data Model: A robust data model is designed to efficiently store and retrieve data for analysis.
 - Visualizations: A variety of visualizations are used to present data in a clear and concise manner.
 
